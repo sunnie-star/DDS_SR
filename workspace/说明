@@ -1,0 +1,3 @@
+client端放入dataset，更改configuration.yml中的视频数据集名称，server端则无关。
+
+生成的results也是在client端，可以把server端当作一个只处理计算机视觉问题的工具人

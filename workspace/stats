@@ -1,0 +1,12 @@
+video-name,low-resolution,high-resolution,low_qp,high_qp,batch-size,low-threshold,high-threshold,tracker-length,TP,FP,FN,F1,low-size,high-size,total-size,frames,mode
+results/trafficcam_1_gt,1.0,-1,24,-1,15,0.3,0.8,4,0,0,0,0,5227299,0,5227299,120,mpeg
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,679,8,209,0.862,1019153,380556,1399709,120,implementation
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,664,24,224,0.843,224969,125968,350937,120,implementation
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,3251,15,667,0.905,3833292,1472669,5305961,450,implementation
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,3072,48,845,0.873,841229,470646,1311875,450,implementation
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,0,0,0,0,47241,-1,47240,120,implementation
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,0,0,0,0,47241,-1,47240,120,implementation
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,0,0,0,0,47241,-1,47240,120,implementation
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,0,0,0,0,47241,-1,47240,120,implementation
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,0,0,0,0,47241,-1,47240,120,implementation
+results/trafficcam_1_dds_0.8_0.8_36_26_0.0_twosides_batch_15_0.5_0.3_0.01,0.8,0.8,36,26,15,0.3,0.8,4,0,0,0,0,47241,-1,47240,120,implementation
